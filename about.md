@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a self-taught web dev, still learning, but I'll get there someday.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Call me Kuya Yow ig, <strong>Unfinished</strong>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yuansabellina@gmail.com]
+(mailto: yuansabellina@gmail.com)
